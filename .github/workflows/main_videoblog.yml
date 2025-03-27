@@ -65,4 +65,4 @@ jobs:
           app-name: 'videoblog'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF34E8CE268A4D22B6618020DF672DFC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D2906FC14E464EF79825F0047566F52C }}
